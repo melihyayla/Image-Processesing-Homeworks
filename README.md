@@ -4,7 +4,7 @@ Basic matlab code for introduction to Image Processing and familiar with it's to
 ----------------------------------------------------------------------------------------------------
 Homework 1 
 
-Question 1: Question 1. Generate the following matrices(shapes) using the commands
+Question 1: Generate the following matrices(shapes) using the commands
 
 Question 2: Find the solution to the following group of linear equations:
 2x +3y + 5z + t = 1
